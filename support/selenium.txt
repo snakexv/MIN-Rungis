@@ -1,0 +1,9 @@
+https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
+
+https://gist.github.com/WillKoehrsen/127fb3963b12b4f0b339ff0c8ee14558
+
+https://www.signifytechnology.com/blog/2018/08/controlling-the-web-with-python-by-william-koehrsen
+
+
+https://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path
+
